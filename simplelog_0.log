@@ -1,0 +1,7 @@
+2021-05-07 23:17:17 - logger <INFO> ['seed', 1000, ['ADD', 'Kshitij', '123-456-7890']]
+2021-05-07 23:17:35 - logger <INFO> ['seed', 1000, ['LIST']]
+2021-05-07 23:18:24 - logger <INFO> ['seed', 1000, ['LIST']]
+2021-05-07 23:18:51 - logger <INFO> ['seed', 1000, ['ADD', 'Kshitij Khaladkar', '123-456-7890']]
+2021-05-07 23:18:54 - logger <INFO> ['seed', 1000, ['LIST']]
+2021-05-07 23:19:17 - logger <INFO> ['Removed valid entry', 'seed', 1000, ['DEL', '123-456-7890']]
+2021-05-07 23:19:21 - logger <INFO> ['seed', 1000, ['LIST']]
